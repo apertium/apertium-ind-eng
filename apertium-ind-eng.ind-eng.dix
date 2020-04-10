@@ -97,8 +97,11 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
-
+      <e><p><l>kucing<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+      <e><p><l>apel<s n="n"/></l><r>apple<s n="n"/></r></p></e>
+      <e><p><l>nasi<s n="n"/></l><r>rice<s n="n"/></r></p></e>
+      <e><p><l>makan<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
+      <e><p><l>dia<s n="prn"/></l><r>he<s n="prn"/></r></p></e>
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>

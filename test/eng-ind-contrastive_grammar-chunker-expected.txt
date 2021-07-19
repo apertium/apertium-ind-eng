@@ -1,0 +1,56 @@
+[-5C6L3rxHZ0v#0] ^unknown<unknown>{^*Have$}$ ^unknown<unknown>{^*you$}$ ^unknown<unknown>{^*painted$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*house$}$^sent<SENT>{^?<sent>$}$
+[/-5C6L3rxHZ0v]
+[-o4_2Xvqv8Cu#0] ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*table$}$
+[/-o4_2Xvqv8Cu]
+[0FThFfd1eBaR#0] ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*bottle$}$
+[/0FThFfd1eBaR]
+[0WDLOh6QVrUe#0] ^unknown<unknown>{^*He$}$ ^unknown<unknown>{^*is$}$ ^unknown<unknown>{^*at$}$ ^unknown<unknown>{^*home$}$^sent<SENT>{^.<sent>$}$
+[/0WDLOh6QVrUe]
+[5jCobuzL8rLg#0] ^unknown<unknown>{^*When$}$ ^unknown<unknown>{^*did$}$ ^unknown<unknown>{^*you$}$ ^unknown<unknown>{^*win$}$^sent<SENT>{^?<sent>$}$
+[/5jCobuzL8rLg]
+[7OfxGw5sgEcd#0] ^unknown<unknown>{^*below$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*table$}$
+[/7OfxGw5sgEcd]
+[MjRBnWFEWDiv#0] ^unknown<unknown>{^*Have$}$ ^unknown<unknown>{^*you$}$ ^default<default>{^makan<vblex><pp>$}$^sent<SENT>{^?<sent>$}$
+[/MjRBnWFEWDiv]
+[NjzJbEL2-Gqm#0] ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*boy$}$
+[/NjzJbEL2-Gqm]
+[OlXWG9HWNQue#0] ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*door$}$
+[/OlXWG9HWNQue]
+[S9rNI1CrwfG_#0] ^unknown<unknown>{^*He$}$ ^unknown<unknown>{^*is$}$ ^unknown<unknown>{^*clever$}$^sent<SENT>{^.<sent>$}$
+[/S9rNI1CrwfG_]
+[UeRnQVYHeYIg#0] ^unknown<unknown>{^*a$}$ ^default<default>{^kucing<n><sg>$}$
+[/UeRnQVYHeYIg]
+[V9mqAxrBjdM5#0] ^unknown<unknown>{^*Father$}$ ^unknown<unknown>{^*gave$}$ ^unknown<unknown>{^*him$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*letter$}$^sent<SENT>{^.<sent>$}$
+[/V9mqAxrBjdM5]
+[YxN9esQ7gwHg#0] ^unknown<unknown>{^*near$}$ ^unknown<unknown>{^*me$}$
+[/YxN9esQ7gwHg]
+[cKSMxeo4Lptf#0] ^unknown<unknown>{^*the$}$ ^default<default>{^kucing<n><sg>$}$
+[/cKSMxeo4Lptf]
+[cWHwHoHo7YPz#0] ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*bottle$}$
+[/cWHwHoHo7YPz]
+[dvYeFr7-ox6a#0] ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*door$}$
+[/dvYeFr7-ox6a]
+[fobAeTMhQ68E#0] ^unknown<unknown>{^*How$}$ ^unknown<unknown>{^*did$}$ ^unknown<unknown>{^*you$}$ ^unknown<unknown>{^*win$}$^sent<SENT>{^?<sent>$}$
+[/fobAeTMhQ68E]
+[gxdVPkhG1a6Y#0] ^unknown<unknown>{^*He$}$ ^unknown<unknown>{^*is$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*teacher$}$
+[/gxdVPkhG1a6Y]
+[i9BLOb3DNiad#0] ^unknown<unknown>{^*far$}$ ^unknown<unknown>{^*from$}$ ^unknown<unknown>{^*me$}$
+[/i9BLOb3DNiad]
+[jR0Nhk1n3LSQ#0] ^unknown<unknown>{^*Why$}$ ^unknown<unknown>{^*did$}$ ^unknown<unknown>{^*you$}$ ^unknown<unknown>{^*win$}$^sent<SENT>{^?<sent>$}$
+[/jR0Nhk1n3LSQ]
+[jWWuR0jvSjfA#0] ^unknown<unknown>{^*Are$}$ ^unknown<unknown>{^*you$}$ ^unknown<unknown>{^*hungry$}$^sent<SENT>{^?<sent>$}$
+[/jWWuR0jvSjfA]
+[kXtNLq2S8t8z#0] ^unknown<unknown>{^*above$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*table$}$
+[/kXtNLq2S8t8z]
+[oHj6Il-uAuFt#0] ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*boy$}$
+[/oHj6Il-uAuFt]
+[rYddS8t_oP71#0] ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*table$}$
+[/rYddS8t_oP71]
+[rp32mSuDwiID#0] ^unknown<unknown>{^*Who$}$ ^unknown<unknown>{^*won$}$^sent<SENT>{^?<sent>$}$
+[/rp32mSuDwiID]
+[t2C1VeEoF5Y8#0] ^unknown<unknown>{^*Will$}$ ^unknown<unknown>{^*you$}$ ^unknown<unknown>{^*come$}$ ^unknown<unknown>{^*tomorrow$}$^sent<SENT>{^?<sent>$}$
+[/t2C1VeEoF5Y8]
+[tSOSKLaiieCU#0] ^unknown<unknown>{^*He$}$ ^unknown<unknown>{^*is$}$ ^unknown<unknown>{^*at$}$ ^unknown<unknown>{^*home$}$
+[/tSOSKLaiieCU]
+[uEgCptoUG6At#0] ^unknown<unknown>{^*He$}$ ^unknown<unknown>{^*went$}$ ^unknown<unknown>{^*to$}$ ^unknown<unknown>{^*school$}$^sent<SENT>{^.<sent>$}$
+[/uEgCptoUG6At]

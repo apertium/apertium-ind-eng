@@ -1,0 +1,10 @@
+{
+    "eng-ind-contrastive_grammar": {
+        "input": "eng-ind-contrastive_grammar-input.txt",
+        "mode": "eng-ind"
+    },
+    "ind-eng-contrastive_grammar": {
+        "input": "ind-eng-contrastive_grammar-input.txt",
+        "mode": "ind-eng"
+    }
+}

@@ -1,0 +1,166 @@
+[0qJwilv2uqdY#0] ^unknown<unknown>{^*Kami$}$ ^unknown<unknown>{^*dilihat$}$
+[/0qJwilv2uqdY]
+[1aqiz3JstLcm#0] ^unknown<unknown>{^*Manusia$}$ ^unknown<unknown>{^*selalu$}$ ^unknown<unknown>{^*menguna$}$ ^unknown<unknown>{^*obat$}$ ^unknown<unknown>{^*dokter$}$^default<default>{^.<sent>$}$
+[/1aqiz3JstLcm]
+[1dKYy8cJ6t26#0] ^unknown<unknown>{^*Awak$}$ ^unknown<unknown>{^*dilihat$}$
+[/1dKYy8cJ6t26]
+[24f7mzAN2wj2#0] ^unknown<unknown>{^*ibu$}$ ^unknown<unknown>{^*cantik$}$
+[/24f7mzAN2wj2]
+[3gsLVJCGmwL3#0] ^gracie<SN>{^Cat<n><sg>$}$ ^unknown<unknown>{^*saya$}$ ^unknown<unknown>{^*mau$}$ ^default<default>{^eat<vblex>$}$^default<default>{^.<sent>$}$
+[/3gsLVJCGmwL3]
+[3xzqmj3WVDzF#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*dilihat$}$
+[/3xzqmj3WVDzF]
+[48vY3KRYLogs#0] ^unknown<unknown>{^*Mary$}$ ^unknown<unknown>{^*ambil$}$ ^unknown<unknown>{^*bukunya$}$^default<default>{^.<sent>$}$
+[/48vY3KRYLogs]
+[5MLP7Usip9Q0#0] ^unknown<unknown>{^*isteri$}$ ^unknown<unknown>{^*muda$}$
+[/5MLP7Usip9Q0]
+[6FbugEoBDPvp#0] ^unknown<unknown>{^*Jessica$}$ ^unknown<unknown>{^*terlupa$}$ ^unknown<unknown>{^*namanya$}$^default<default>{^.<sent>$}$
+[/6FbugEoBDPvp]
+[6MbWuAc8-zRV#0] ^unknown<unknown>{^*kotak$}$ ^unknown<unknown>{^*tinggi$}$
+[/6MbWuAc8-zRV]
+[6Mn59luQSA-c#0] ^unknown<unknown>{^*Guru$}$ ^unknown<unknown>{^*memberi$}$ ^unknown<unknown>{^*Jack$}$ ^unknown<unknown>{^*kerjarumahnya$}$^default<default>{^.<sent>$}$
+[/6Mn59luQSA-c]
+[6k8_XlX9eLrv#0] ^unknown<unknown>{^*Priscilla$}$ ^unknown<unknown>{^*suka$}$ ^unknown<unknown>{^*kucingnya$}$^default<default>{^.<sent>$}$
+[/6k8_XlX9eLrv]
+[7etnPY9Mt4QH#0] ^unknown<unknown>{^*guru$}$ ^unknown<unknown>{^*gemuk$}$
+[/7etnPY9Mt4QH]
+[7pNx60qP-hRc#0] ^unknown<unknown>{^*Awak$}$ ^unknown<unknown>{^*dijerit$}$
+[/7pNx60qP-hRc]
+[8ja-DvBobxaw#0] ^unknown<unknown>{^*Kamu$}$ ^unknown<unknown>{^*dipergi$}$
+[/8ja-DvBobxaw]
+[8nD-MzAGcrih#0] ^unknown<unknown>{^*Kamu$}$ ^unknown<unknown>{^*dijerit$}$
+[/8nD-MzAGcrih]
+[9tDywiZKefU2#0] ^unknown<unknown>{^*Kami$}$ ^unknown<unknown>{^*bermain$}$ ^unknown<unknown>{^*sepakbola$}$
+[/9tDywiZKefU2]
+[ABreAY6FWGs1#0] ^unknown<unknown>{^*Kamu$}$ ^unknown<unknown>{^*pergi$}$
+[/ABreAY6FWGs1]
+[AZ64XLn8tIW3#0] ^unknown<unknown>{^*Kamu$}$ ^unknown<unknown>{^*melihat$}$
+[/AZ64XLn8tIW3]
+[BqVizR6QW2mJ#0] ^unknown<unknown>{^*Mereka$}$ ^unknown<unknown>{^*pergi$}$
+[/BqVizR6QW2mJ]
+[DB0bP-YDt-dg#0] ^default<default>{^He<prn><p3><sg>$}$ ^unknown<unknown>{^*bermain$}$ ^unknown<unknown>{^*sepakbola$}$
+[/DB0bP-YDt-dg]
+[DcP_Kj7hp_DH#0] ^unknown<unknown>{^*televisyen$}$ ^unknown<unknown>{^*warna$}$
+[/DcP_Kj7hp_DH]
+[DtVaefq5IM4S#0] ^unknown<unknown>{^*Memberi$}$ ^unknown<unknown>{^*saya$}$ ^unknown<unknown>{^*buku$}$ ^unknown<unknown>{^*tersebut$}$^default<default>{^.<sent>$}$
+[/DtVaefq5IM4S]
+[F5zcOsfMDPN0#0] ^default<default>{^He<prn><p3><sg>$}$ ^unknown<unknown>{^*melihat$}$
+[/F5zcOsfMDPN0]
+[Flh8arQWUK21#0] ^default<default>{^He<prn><p3><sg>$}$ ^unknown<unknown>{^*pergi$}$
+[/Flh8arQWUK21]
+[JCUF8QtAtYJU#0] ^unknown<unknown>{^*John$}$ ^unknown<unknown>{^*membaca$}$ ^unknown<unknown>{^*cerita$}$ ^unknown<unknown>{^*tersebut$}$^default<default>{^.<sent>$}$
+[/JCUF8QtAtYJU]
+[KKXXrvNiKuaH#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*ada$}$ ^unknown<unknown>{^*banyak$}$ ^unknown<unknown>{^*surat$}$
+[/KKXXrvNiKuaH]
+[Ks2TmOVPsHTn#0] ^unknown<unknown>{^*Mereka$}$ ^unknown<unknown>{^*dipergi$}$
+[/Ks2TmOVPsHTn]
+[LNNReAoBMrAC#0] ^unknown<unknown>{^*Mereka$}$ ^unknown<unknown>{^*melihat$}$
+[/LNNReAoBMrAC]
+[LRAXf2Yq7Vb8#0] ^unknown<unknown>{^*Arash$}$ ^unknown<unknown>{^*mencuci$}$ ^unknown<unknown>{^*mobil$}$ ^unknown<unknown>{^*tersebut$}$^default<default>{^.<sent>$}$
+[/LRAXf2Yq7Vb8]
+[LXymyzODZmR-#0] ^default<default>{^He<prn><p3><sg>$}$ ^unknown<unknown>{^*dilihat$}$
+[/LXymyzODZmR-]
+[MzcoFbrNZey4#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*dipergi$}$
+[/MzcoFbrNZey4]
+[NNXDaumop4Ap#0] ^default<default>{^He<prn><p3><sg>$}$ ^unknown<unknown>{^*dijerit$}$
+[/NNXDaumop4Ap]
+[O3o-_rQQVRyb#0] ^unknown<unknown>{^*Kami$}$ ^unknown<unknown>{^*menjerit$}$
+[/O3o-_rQQVRyb]
+[OMlxCUL0AC5C#0] ^unknown<unknown>{^*Tukang$}$ ^unknown<unknown>{^*pos$}$ ^unknown<unknown>{^*selalu$}$ ^unknown<unknown>{^*membawa$}$ ^unknown<unknown>{^*surat$}$
+[/OMlxCUL0AC5C]
+[OzqF2mqqdZ6l#0] ^unknown<unknown>{^*Serigala$}$ ^unknown<unknown>{^*itu$}$ ^unknown<unknown>{^*binatang$}$
+[/OzqF2mqqdZ6l]
+[P02-k1NUQh-c#0] ^unknown<unknown>{^*John$}$ ^unknown<unknown>{^*sedih$}$ ^unknown<unknown>{^*karena$}$ ^unknown<unknown>{^*ibunya$}$ ^unknown<unknown>{^*marah$}$^default<default>{^.<sent>$}$
+[/P02-k1NUQh-c]
+[RKofu5ee5bE6#0] ^unknown<unknown>{^*Mereka$}$ ^unknown<unknown>{^*dilihat$}$
+[/RKofu5ee5bE6]
+[VBFtSBxQ6yvF#0] ^default<default>{^He<prn><p3><sg>$}$ ^unknown<unknown>{^*menjerit$}$
+[/VBFtSBxQ6yvF]
+[VbAIo2wFToCS#0] ^unknown<unknown>{^*pokok$}$ ^unknown<unknown>{^*epal$}$
+[/VbAIo2wFToCS]
+[YGwRYLr3BtOM#0] ^unknown<unknown>{^*Ibu$}$ ^unknown<unknown>{^*saya$}$ ^unknown<unknown>{^*suka$}$ ^default<default>{^eat<vblex>$}$ ^unknown<unknown>{^*kacang$}$^default<default>{^.<sent>$}$
+[/YGwRYLr3BtOM]
+[YftzcZwoN3kG#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*suka$}$ ^unknown<unknown>{^*buku$}$ ^default<default>{^he<prn><p3><sg>$}$
+[/YftzcZwoN3kG]
+[Yi4CBTB4Rw22#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*suka$}$ ^unknown<unknown>{^*rambut$}$ ^unknown<unknown>{^*ia$}$
+[/Yi4CBTB4Rw22]
+[YwZNazAacYkF#0] ^unknown<unknown>{^*Kami$}$ ^unknown<unknown>{^*dijerit$}$
+[/YwZNazAacYkF]
+[YzBiXM1YKSob#0] ^unknown<unknown>{^*Awak$}$ ^unknown<unknown>{^*bermain$}$ ^unknown<unknown>{^*sepakbola$}$
+[/YzBiXM1YKSob]
+[ZMtWer48_Zu3#0] ^unknown<unknown>{^*Awak$}$ ^unknown<unknown>{^*dipergi$}$
+[/ZMtWer48_Zu3]
+[ZoUzYw4wDMQZ#0] ^unknown<unknown>{^*Sila$}$ ^unknown<unknown>{^*mengikuti$}$ ^unknown<unknown>{^*arahan$}$ ^unknown<unknown>{^*tersebut$}$^default<default>{^.<sent>$}$
+[/ZoUzYw4wDMQZ]
+[_EEAFVwgk4lV#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*bermain$}$ ^unknown<unknown>{^*sepakbola$}$
+[/_EEAFVwgk4lV]
+[a9baGCZh991e#0] ^default<default>{^He<prn><p3><sg>$}$ ^unknown<unknown>{^*dipergi$}$
+[/a9baGCZh991e]
+[aO4jdLK2SshL#0] ^unknown<unknown>{^*Mereka$}$ ^default<default>{^eat<vblex>$}$ ^default<default>{^eat<vblex><subst><san><sg>$}$ ^unknown<unknown>{^*malam$}$^default<default>{^.<sent>$}$
+[/aO4jdLK2SshL]
+[aXWVCHduhNOp#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*melihat$}$
+[/aXWVCHduhNOp]
+[dgQXt-CQ1kb_#0] ^unknown<unknown>{^*Pencuri$}$ ^unknown<unknown>{^*tersebut$}$ ^unknown<unknown>{^*mencuri$}$ ^unknown<unknown>{^*dompet$}$ ^unknown<unknown>{^*ibu$}$^default<default>{^.<sent>$}$
+[/dgQXt-CQ1kb_]
+[eLfOw66iC-QT#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*suka$}$ ^unknown<unknown>{^*buku$}$ ^unknown<unknown>{^*itu$}$
+[/eLfOw66iC-QT]
+[fqNFuRB24tmP#0] ^unknown<unknown>{^*Awak$}$ ^unknown<unknown>{^*pergi$}$
+[/fqNFuRB24tmP]
+[fwufZeVFvy-k#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*suka$}$ ^unknown<unknown>{^*buku$}$ ^unknown<unknown>{^*ini$}$
+[/fwufZeVFvy-k]
+[g-XudPpGXfU7#0] ^unknown<unknown>{^*Kimiunya$}$ ^unknown<unknown>{^*ulangkaji$}$^default<default>{^.<sent>$}$
+[/g-XudPpGXfU7]
+[gHGuC3AeCvXW#0] ^unknown<unknown>{^*Kami$}$ ^unknown<unknown>{^*dipergi$}$
+[/gHGuC3AeCvXW]
+[iKURYrVhxGQP#0] ^unknown<unknown>{^*rambut$}$ ^unknown<unknown>{^*hitam$}$
+[/iKURYrVhxGQP]
+[jRUaRvp12ygZ#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*dijerit$}$
+[/jRUaRvp12ygZ]
+[jj8ZJ-EsOJ13#0] ^unknown<unknown>{^*lelaki$}$ ^unknown<unknown>{^*tinggi$}$
+[/jj8ZJ-EsOJ13]
+[kUTta7_qaNRm#0] ^unknown<unknown>{^*ikan$}$ ^unknown<unknown>{^*besar$}$
+[/kUTta7_qaNRm]
+[mKoufLmZWwVv#0] ^unknown<unknown>{^*Kamu$}$ ^unknown<unknown>{^*bermain$}$ ^unknown<unknown>{^*sepakbola$}$
+[/mKoufLmZWwVv]
+[mpP_OD2Emj1l#0] ^unknown<unknown>{^*Awak$}$ ^unknown<unknown>{^*menjerit$}$
+[/mpP_OD2Emj1l]
+[nBT4jsJV3SeI#0] ^unknown<unknown>{^*Mereka$}$ ^unknown<unknown>{^*bermain$}$ ^unknown<unknown>{^*sepakbola$}$
+[/nBT4jsJV3SeI]
+[nPN46QBuhQko#0] ^unknown<unknown>{^*Kami$}$ ^unknown<unknown>{^*melihat$}$
+[/nPN46QBuhQko]
+[oL31eO9dBjLU#0] ^unknown<unknown>{^*anak$}$ ^unknown<unknown>{^*kecil$}$
+[/oL31eO9dBjLU]
+[oUCakff2q8N_#0] ^unknown<unknown>{^*Kamu$}$ ^unknown<unknown>{^*dilihat$}$
+[/oUCakff2q8N_]
+[oWSNM6u27Ykr#0] ^unknown<unknown>{^*Awak$}$ ^unknown<unknown>{^*melihat$}$
+[/oWSNM6u27Ykr]
+[opgSTbNNcrPn#0] ^unknown<unknown>{^*Mary$}$ ^unknown<unknown>{^*beritahu$}$ ^unknown<unknown>{^*John$}$ ^unknown<unknown>{^*tentang$}$ ^gracie<SN>{^cat<n><sg>$}$ ^unknown<unknown>{^*baru$}$ ^unknown<unknown>{^*Jack$}$^default<default>{^.<sent>$}$
+[/opgSTbNNcrPn]
+[pFqUfsKkKdaq#0] ^unknown<unknown>{^*Bapak$}$ ^unknown<unknown>{^*memberi$}$ ^unknown<unknown>{^*John$}$ ^unknown<unknown>{^*es$}$-^unknown<unknown>{^*krim$}$^default<default>{^.<sent>$}$
+[/pFqUfsKkKdaq]
+[sGanFednCRAK#0] ^unknown<unknown>{^*Mereka$}$ ^unknown<unknown>{^*dijerit$}$
+[/sGanFednCRAK]
+[uBPnlCSGoDJQ#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*menjerit$}$
+[/uBPnlCSGoDJQ]
+[v7Vp-RC7oDcb#0] ^unknown<unknown>{^*Ibunya$}$ ^unknown<unknown>{^*marah$}$^default<default>{^.<sent>$}$
+[/v7Vp-RC7oDcb]
+[v9mExyeX5bnX#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*pergi$}$
+[/v9mExyeX5bnX]
+[vGgo59jTg4Oa#0] ^unknown<unknown>{^*Bapak$}$ ^unknown<unknown>{^*saya$}$ ^unknown<unknown>{^*pergi$}$ ^unknown<unknown>{^*ke$}$ ^unknown<unknown>{^*sekolah$}$^default<default>{^.<sent>$}$
+[/vGgo59jTg4Oa]
+[vpp6GaNW_TvV#0] ^unknown<unknown>{^*Saya$}$ ^unknown<unknown>{^*bermain$}$ ^unknown<unknown>{^*bola$}$^default<default>{^.<sent>$}$
+[/vpp6GaNW_TvV]
+[x5Vhn_neltKM#0] ^unknown<unknown>{^*taxi$}$ ^unknown<unknown>{^*kuning$}$
+[/x5Vhn_neltKM]
+[xFa0xda5rT7u#0] ^unknown<unknown>{^*Kami$}$ ^unknown<unknown>{^*pergi$}$
+[/xFa0xda5rT7u]
+[yRfEhPiO2P7c#0] ^unknown<unknown>{^*Mereka$}$ ^unknown<unknown>{^*menjerit$}$
+[/yRfEhPiO2P7c]
+[ygwgGfqWz0DC#0] ^unknown<unknown>{^*Kamu$}$ ^unknown<unknown>{^*menjerit$}$
+[/ygwgGfqWz0DC]
+[yiwJiHq8mBLc#0] ^unknown<unknown>{^*John$}$ ^unknown<unknown>{^*dan$}$ ^unknown<unknown>{^*Jack$}$ ^unknown<unknown>{^*pergi$}$ ^unknown<unknown>{^*ke$}$ ^unknown<unknown>{^*perpustakaan$}$ ^unknown<unknown>{^*di$}$ ^unknown<unknown>{^*dalam$}$ ^unknown<unknown>{^*mobil$}$ ^unknown<unknown>{^*John$}$^default<default>{^.<sent>$}$
+[/yiwJiHq8mBLc]
+[z9aXOHeT34mo#0] ^unknown<unknown>{^*Baju$}$ ^unknown<unknown>{^*putih$}$ ^unknown<unknown>{^*terbesar$}$ ^unknown<unknown>{^*untuk$}$ ^unknown<unknown>{^*saya$}$^default<default>{^.<sent>$}$
+[/z9aXOHeT34mo]
+[zvatYUilLFp8#0] ^unknown<unknown>{^*Guru$}$ ^unknown<unknown>{^*memberi$}$ ^unknown<unknown>{^*kerjarumahnya$}$^default<default>{^.<sent>$}$
+[/zvatYUilLFp8]

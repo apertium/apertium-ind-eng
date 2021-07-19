@@ -1,0 +1,166 @@
+[0qJwilv2uqdY#0] ^Kami/*Kami$ ^dilihat/*dilihat$
+[/0qJwilv2uqdY]
+[1aqiz3JstLcm#0] ^Manusia/*Manusia$ ^selalu/*selalu$ ^menguna/*menguna$ ^obat/*obat$ ^dokter/*dokter$^./.<sent>$
+[/1aqiz3JstLcm]
+[1dKYy8cJ6t26#0] ^Awak/*Awak$ ^dilihat/*dilihat$
+[/1dKYy8cJ6t26]
+[24f7mzAN2wj2#0] ^ibu/*ibu$ ^cantik/*cantik$
+[/24f7mzAN2wj2]
+[3gsLVJCGmwL3#0] ^Kucing/kucing<n><sg>$ ^saya/*saya$ ^mau/*mau$ ^makan/makan<vblex>$^./.<sent>$
+[/3gsLVJCGmwL3]
+[3xzqmj3WVDzF#0] ^Saya/*Saya$ ^dilihat/*dilihat$
+[/3xzqmj3WVDzF]
+[48vY3KRYLogs#0] ^Mary/*Mary$ ^ambil/*ambil$ ^bukunya/*bukunya$^./.<sent>$
+[/48vY3KRYLogs]
+[5MLP7Usip9Q0#0] ^isteri/*isteri$ ^muda/*muda$
+[/5MLP7Usip9Q0]
+[6FbugEoBDPvp#0] ^Jessica/*Jessica$ ^terlupa/*terlupa$ ^namanya/*namanya$^./.<sent>$
+[/6FbugEoBDPvp]
+[6MbWuAc8-zRV#0] ^kotak/*kotak$ ^tinggi/*tinggi$
+[/6MbWuAc8-zRV]
+[6Mn59luQSA-c#0] ^Guru/*Guru$ ^memberi/*memberi$ ^Jack/*Jack$ ^kerjarumahnya/*kerjarumahnya$^./.<sent>$
+[/6Mn59luQSA-c]
+[6k8_XlX9eLrv#0] ^Priscilla/*Priscilla$ ^suka/*suka$ ^kucingnya/*kucingnya$^./.<sent>$
+[/6k8_XlX9eLrv]
+[7etnPY9Mt4QH#0] ^guru/*guru$ ^gemuk/*gemuk$
+[/7etnPY9Mt4QH]
+[7pNx60qP-hRc#0] ^Awak/*Awak$ ^dijerit/*dijerit$
+[/7pNx60qP-hRc]
+[8ja-DvBobxaw#0] ^Kamu/*Kamu$ ^dipergi/*dipergi$
+[/8ja-DvBobxaw]
+[8nD-MzAGcrih#0] ^Kamu/*Kamu$ ^dijerit/*dijerit$
+[/8nD-MzAGcrih]
+[9tDywiZKefU2#0] ^Kami/*Kami$ ^bermain/*bermain$ ^sepakbola/*sepakbola$
+[/9tDywiZKefU2]
+[ABreAY6FWGs1#0] ^Kamu/*Kamu$ ^pergi/*pergi$
+[/ABreAY6FWGs1]
+[AZ64XLn8tIW3#0] ^Kamu/*Kamu$ ^melihat/*melihat$
+[/AZ64XLn8tIW3]
+[BqVizR6QW2mJ#0] ^Mereka/*Mereka$ ^pergi/*pergi$
+[/BqVizR6QW2mJ]
+[DB0bP-YDt-dg#0] ^Dia/dia<prn><p3><sg>$ ^bermain/*bermain$ ^sepakbola/*sepakbola$
+[/DB0bP-YDt-dg]
+[DcP_Kj7hp_DH#0] ^televisyen/*televisyen$ ^warna/*warna$
+[/DcP_Kj7hp_DH]
+[DtVaefq5IM4S#0] ^Memberi/*Memberi$ ^saya/*saya$ ^buku/*buku$ ^tersebut/*tersebut$^./.<sent>$
+[/DtVaefq5IM4S]
+[F5zcOsfMDPN0#0] ^Dia/dia<prn><p3><sg>$ ^melihat/*melihat$
+[/F5zcOsfMDPN0]
+[Flh8arQWUK21#0] ^Dia/dia<prn><p3><sg>$ ^pergi/*pergi$
+[/Flh8arQWUK21]
+[JCUF8QtAtYJU#0] ^John/*John$ ^membaca/*membaca$ ^cerita/*cerita$ ^tersebut/*tersebut$^./.<sent>$
+[/JCUF8QtAtYJU]
+[KKXXrvNiKuaH#0] ^Saya/*Saya$ ^ada/*ada$ ^banyak/*banyak$ ^surat/*surat$
+[/KKXXrvNiKuaH]
+[Ks2TmOVPsHTn#0] ^Mereka/*Mereka$ ^dipergi/*dipergi$
+[/Ks2TmOVPsHTn]
+[LNNReAoBMrAC#0] ^Mereka/*Mereka$ ^melihat/*melihat$
+[/LNNReAoBMrAC]
+[LRAXf2Yq7Vb8#0] ^Arash/*Arash$ ^mencuci/*mencuci$ ^mobil/*mobil$ ^tersebut/*tersebut$^./.<sent>$
+[/LRAXf2Yq7Vb8]
+[LXymyzODZmR-#0] ^Dia/dia<prn><p3><sg>$ ^dilihat/*dilihat$
+[/LXymyzODZmR-]
+[MzcoFbrNZey4#0] ^Saya/*Saya$ ^dipergi/*dipergi$
+[/MzcoFbrNZey4]
+[NNXDaumop4Ap#0] ^Dia/dia<prn><p3><sg>$ ^dijerit/*dijerit$
+[/NNXDaumop4Ap]
+[O3o-_rQQVRyb#0] ^Kami/*Kami$ ^menjerit/*menjerit$
+[/O3o-_rQQVRyb]
+[OMlxCUL0AC5C#0] ^Tukang/*Tukang$ ^pos/*pos$ ^selalu/*selalu$ ^membawa/*membawa$ ^surat/*surat$
+[/OMlxCUL0AC5C]
+[OzqF2mqqdZ6l#0] ^Serigala/*Serigala$ ^itu/*itu$ ^binatang/*binatang$
+[/OzqF2mqqdZ6l]
+[P02-k1NUQh-c#0] ^John/*John$ ^sedih/*sedih$ ^karena/*karena$ ^ibunya/*ibunya$ ^marah/*marah$^./.<sent>$
+[/P02-k1NUQh-c]
+[RKofu5ee5bE6#0] ^Mereka/*Mereka$ ^dilihat/*dilihat$
+[/RKofu5ee5bE6]
+[VBFtSBxQ6yvF#0] ^Dia/dia<prn><p3><sg>$ ^menjerit/*menjerit$
+[/VBFtSBxQ6yvF]
+[VbAIo2wFToCS#0] ^pokok/*pokok$ ^epal/*epal$
+[/VbAIo2wFToCS]
+[YGwRYLr3BtOM#0] ^Ibu/*Ibu$ ^saya/*saya$ ^suka/*suka$ ^makan/makan<vblex>$ ^kacang/*kacang$^./.<sent>$
+[/YGwRYLr3BtOM]
+[YftzcZwoN3kG#0] ^Saya/*Saya$ ^suka/*suka$ ^buku/*buku$ ^dia/dia<prn><p3><sg>$
+[/YftzcZwoN3kG]
+[Yi4CBTB4Rw22#0] ^Saya/*Saya$ ^suka/*suka$ ^rambut/*rambut$ ^ia/*ia$
+[/Yi4CBTB4Rw22]
+[YwZNazAacYkF#0] ^Kami/*Kami$ ^dijerit/*dijerit$
+[/YwZNazAacYkF]
+[YzBiXM1YKSob#0] ^Awak/*Awak$ ^bermain/*bermain$ ^sepakbola/*sepakbola$
+[/YzBiXM1YKSob]
+[ZMtWer48_Zu3#0] ^Awak/*Awak$ ^dipergi/*dipergi$
+[/ZMtWer48_Zu3]
+[ZoUzYw4wDMQZ#0] ^Sila/*Sila$ ^mengikuti/*mengikuti$ ^arahan/*arahan$ ^tersebut/*tersebut$^./.<sent>$
+[/ZoUzYw4wDMQZ]
+[_EEAFVwgk4lV#0] ^Saya/*Saya$ ^bermain/*bermain$ ^sepakbola/*sepakbola$
+[/_EEAFVwgk4lV]
+[a9baGCZh991e#0] ^Dia/dia<prn><p3><sg>$ ^dipergi/*dipergi$
+[/a9baGCZh991e]
+[aO4jdLK2SshL#0] ^Mereka/*Mereka$ ^makan/makan<vblex>$ ^makanan/makan<vblex><subst><san><sg>$ ^malam/*malam$^./.<sent>$
+[/aO4jdLK2SshL]
+[aXWVCHduhNOp#0] ^Saya/*Saya$ ^melihat/*melihat$
+[/aXWVCHduhNOp]
+[dgQXt-CQ1kb_#0] ^Pencuri/*Pencuri$ ^tersebut/*tersebut$ ^mencuri/*mencuri$ ^dompet/*dompet$ ^ibu/*ibu$^./.<sent>$
+[/dgQXt-CQ1kb_]
+[eLfOw66iC-QT#0] ^Saya/*Saya$ ^suka/*suka$ ^buku/*buku$ ^itu/*itu$
+[/eLfOw66iC-QT]
+[fqNFuRB24tmP#0] ^Awak/*Awak$ ^pergi/*pergi$
+[/fqNFuRB24tmP]
+[fwufZeVFvy-k#0] ^Saya/*Saya$ ^suka/*suka$ ^buku/*buku$ ^ini/*ini$
+[/fwufZeVFvy-k]
+[g-XudPpGXfU7#0] ^Kimiunya/*Kimiunya$ ^ulangkaji/*ulangkaji$^./.<sent>$
+[/g-XudPpGXfU7]
+[gHGuC3AeCvXW#0] ^Kami/*Kami$ ^dipergi/*dipergi$
+[/gHGuC3AeCvXW]
+[iKURYrVhxGQP#0] ^rambut/*rambut$ ^hitam/*hitam$
+[/iKURYrVhxGQP]
+[jRUaRvp12ygZ#0] ^Saya/*Saya$ ^dijerit/*dijerit$
+[/jRUaRvp12ygZ]
+[jj8ZJ-EsOJ13#0] ^lelaki/*lelaki$ ^tinggi/*tinggi$
+[/jj8ZJ-EsOJ13]
+[kUTta7_qaNRm#0] ^ikan/*ikan$ ^besar/*besar$
+[/kUTta7_qaNRm]
+[mKoufLmZWwVv#0] ^Kamu/*Kamu$ ^bermain/*bermain$ ^sepakbola/*sepakbola$
+[/mKoufLmZWwVv]
+[mpP_OD2Emj1l#0] ^Awak/*Awak$ ^menjerit/*menjerit$
+[/mpP_OD2Emj1l]
+[nBT4jsJV3SeI#0] ^Mereka/*Mereka$ ^bermain/*bermain$ ^sepakbola/*sepakbola$
+[/nBT4jsJV3SeI]
+[nPN46QBuhQko#0] ^Kami/*Kami$ ^melihat/*melihat$
+[/nPN46QBuhQko]
+[oL31eO9dBjLU#0] ^anak/*anak$ ^kecil/*kecil$
+[/oL31eO9dBjLU]
+[oUCakff2q8N_#0] ^Kamu/*Kamu$ ^dilihat/*dilihat$
+[/oUCakff2q8N_]
+[oWSNM6u27Ykr#0] ^Awak/*Awak$ ^melihat/*melihat$
+[/oWSNM6u27Ykr]
+[opgSTbNNcrPn#0] ^Mary/*Mary$ ^beritahu/*beritahu$ ^John/*John$ ^tentang/*tentang$ ^kucing/kucing<n><sg>$ ^baru/*baru$ ^Jack/*Jack$^./.<sent>$
+[/opgSTbNNcrPn]
+[pFqUfsKkKdaq#0] ^Bapak/*Bapak$ ^memberi/*memberi$ ^John/*John$ ^es/*es$-^krim/*krim$^./.<sent>$
+[/pFqUfsKkKdaq]
+[sGanFednCRAK#0] ^Mereka/*Mereka$ ^dijerit/*dijerit$
+[/sGanFednCRAK]
+[uBPnlCSGoDJQ#0] ^Saya/*Saya$ ^menjerit/*menjerit$
+[/uBPnlCSGoDJQ]
+[v7Vp-RC7oDcb#0] ^Ibunya/*Ibunya$ ^marah/*marah$^./.<sent>$
+[/v7Vp-RC7oDcb]
+[v9mExyeX5bnX#0] ^Saya/*Saya$ ^pergi/*pergi$
+[/v9mExyeX5bnX]
+[vGgo59jTg4Oa#0] ^Bapak/*Bapak$ ^saya/*saya$ ^pergi/*pergi$ ^ke/*ke$ ^sekolah/*sekolah$^./.<sent>$
+[/vGgo59jTg4Oa]
+[vpp6GaNW_TvV#0] ^Saya/*Saya$ ^bermain/*bermain$ ^bola/*bola$^./.<sent>$
+[/vpp6GaNW_TvV]
+[x5Vhn_neltKM#0] ^taxi/*taxi$ ^kuning/*kuning$
+[/x5Vhn_neltKM]
+[xFa0xda5rT7u#0] ^Kami/*Kami$ ^pergi/*pergi$
+[/xFa0xda5rT7u]
+[yRfEhPiO2P7c#0] ^Mereka/*Mereka$ ^menjerit/*menjerit$
+[/yRfEhPiO2P7c]
+[ygwgGfqWz0DC#0] ^Kamu/*Kamu$ ^menjerit/*menjerit$
+[/ygwgGfqWz0DC]
+[yiwJiHq8mBLc#0] ^John/*John$ ^dan/*dan$ ^Jack/*Jack$ ^pergi/*pergi$ ^ke/*ke$ ^perpustakaan/*perpustakaan$ ^di/*di$ ^dalam/*dalam$ ^mobil/*mobil$ ^John/*John$^./.<sent>$
+[/yiwJiHq8mBLc]
+[z9aXOHeT34mo#0] ^Baju/*Baju$ ^putih/*putih$ ^terbesar/*terbesar$ ^untuk/*untuk$ ^saya/*saya$^./.<sent>$
+[/z9aXOHeT34mo]
+[zvatYUilLFp8#0] ^Guru/*Guru$ ^memberi/*memberi$ ^kerjarumahnya/*kerjarumahnya$^./.<sent>$
+[/zvatYUilLFp8]

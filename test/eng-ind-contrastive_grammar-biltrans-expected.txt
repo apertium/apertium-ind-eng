@@ -1,0 +1,56 @@
+[-5C6L3rxHZ0v#0] ^*Have/*Have$ ^*you/*you$ ^*painted/*painted$ ^*the/*the$ ^*house/*house$^?<sent>/?<sent>$
+[/-5C6L3rxHZ0v]
+[-o4_2Xvqv8Cu#0] ^*the/*the$ ^*table/*table$
+[/-o4_2Xvqv8Cu]
+[0FThFfd1eBaR#0] ^*a/*a$ ^*bottle/*bottle$
+[/0FThFfd1eBaR]
+[0WDLOh6QVrUe#0] ^*He/*He$ ^*is/*is$ ^*at/*at$ ^*home/*home$^.<sent>/.<sent>$
+[/0WDLOh6QVrUe]
+[5jCobuzL8rLg#0] ^*When/*When$ ^*did/*did$ ^*you/*you$ ^*win/*win$^?<sent>/?<sent>$
+[/5jCobuzL8rLg]
+[7OfxGw5sgEcd#0] ^*below/*below$ ^*the/*the$ ^*table/*table$
+[/7OfxGw5sgEcd]
+[MjRBnWFEWDiv#0] ^*Have/*Have$ ^*you/*you$ ^eat<vblex><pp>/makan<vblex><pp>$^?<sent>/?<sent>$
+[/MjRBnWFEWDiv]
+[NjzJbEL2-Gqm#0] ^*the/*the$ ^*boy/*boy$
+[/NjzJbEL2-Gqm]
+[OlXWG9HWNQue#0] ^*the/*the$ ^*door/*door$
+[/OlXWG9HWNQue]
+[S9rNI1CrwfG_#0] ^*He/*He$ ^*is/*is$ ^*clever/*clever$^.<sent>/.<sent>$
+[/S9rNI1CrwfG_]
+[UeRnQVYHeYIg#0] ^*a/*a$ ^cat<n><sg>/kucing<n><sg>$
+[/UeRnQVYHeYIg]
+[V9mqAxrBjdM5#0] ^*Father/*Father$ ^*gave/*gave$ ^*him/*him$ ^*a/*a$ ^*letter/*letter$^.<sent>/.<sent>$
+[/V9mqAxrBjdM5]
+[YxN9esQ7gwHg#0] ^*near/*near$ ^*me/*me$
+[/YxN9esQ7gwHg]
+[cKSMxeo4Lptf#0] ^*the/*the$ ^cat<n><sg>/kucing<n><sg>$
+[/cKSMxeo4Lptf]
+[cWHwHoHo7YPz#0] ^*the/*the$ ^*bottle/*bottle$
+[/cWHwHoHo7YPz]
+[dvYeFr7-ox6a#0] ^*a/*a$ ^*door/*door$
+[/dvYeFr7-ox6a]
+[fobAeTMhQ68E#0] ^*How/*How$ ^*did/*did$ ^*you/*you$ ^*win/*win$^?<sent>/?<sent>$
+[/fobAeTMhQ68E]
+[gxdVPkhG1a6Y#0] ^*He/*He$ ^*is/*is$ ^*a/*a$ ^*teacher/*teacher$
+[/gxdVPkhG1a6Y]
+[i9BLOb3DNiad#0] ^*far/*far$ ^*from/*from$ ^*me/*me$
+[/i9BLOb3DNiad]
+[jR0Nhk1n3LSQ#0] ^*Why/*Why$ ^*did/*did$ ^*you/*you$ ^*win/*win$^?<sent>/?<sent>$
+[/jR0Nhk1n3LSQ]
+[jWWuR0jvSjfA#0] ^*Are/*Are$ ^*you/*you$ ^*hungry/*hungry$^?<sent>/?<sent>$
+[/jWWuR0jvSjfA]
+[kXtNLq2S8t8z#0] ^*above/*above$ ^*the/*the$ ^*table/*table$
+[/kXtNLq2S8t8z]
+[oHj6Il-uAuFt#0] ^*a/*a$ ^*boy/*boy$
+[/oHj6Il-uAuFt]
+[rYddS8t_oP71#0] ^*a/*a$ ^*table/*table$
+[/rYddS8t_oP71]
+[rp32mSuDwiID#0] ^*Who/*Who$ ^*won/*won$^?<sent>/?<sent>$
+[/rp32mSuDwiID]
+[t2C1VeEoF5Y8#0] ^*Will/*Will$ ^*you/*you$ ^*come/*come$ ^*tomorrow/*tomorrow$^?<sent>/?<sent>$
+[/t2C1VeEoF5Y8]
+[tSOSKLaiieCU#0] ^*He/*He$ ^*is/*is$ ^*at/*at$ ^*home/*home$
+[/tSOSKLaiieCU]
+[uEgCptoUG6At#0] ^*He/*He$ ^*went/*went$ ^*to/*to$ ^*school/*school$^.<sent>/.<sent>$
+[/uEgCptoUG6At]
